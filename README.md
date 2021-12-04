@@ -9,11 +9,10 @@
 
 ## Overview
 
-Repository for personal flutter test projects to test out stuff and learn.
+Repository for personal flutter test projects to test out new stuff and learn. The goal is to build different apps while increasing the difficulty or to try out new ideas along the way.
 
 ## Apps
-
-## Flutterdoro
+### Flutterdoro
 
 A simple pomodoro timer in flutter. Main goal was to recreate the app "[Pomotroid](https://www.electronjs.org/apps/pomotroid)" to increase the difficulty from the last project.
 
